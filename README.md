@@ -175,10 +175,7 @@ smart-road-condition-monitor/
 │   └── road_model.pkl
 │
 ├── ml/
-│   └── train_model.py
-│
-└── data/
-    └── results.csv
+    └── train_model.py
 ```
 
 ---
